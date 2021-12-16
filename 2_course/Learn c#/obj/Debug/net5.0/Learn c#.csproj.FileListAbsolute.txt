@@ -1,0 +1,16 @@
+C:\University\Learn c#\bin\Debug\net5.0\Learn c#.exe
+C:\University\Learn c#\bin\Debug\net5.0\Learn c#.deps.json
+C:\University\Learn c#\bin\Debug\net5.0\Learn c#.runtimeconfig.json
+C:\University\Learn c#\bin\Debug\net5.0\Learn c#.runtimeconfig.dev.json
+C:\University\Learn c#\bin\Debug\net5.0\Learn c#.dll
+C:\University\Learn c#\bin\Debug\net5.0\ref\Learn c#.dll
+C:\University\Learn c#\bin\Debug\net5.0\Learn c#.pdb
+C:\University\Learn c#\obj\Debug\net5.0\Learn c#.csprojAssemblyReference.cache
+C:\University\Learn c#\obj\Debug\net5.0\Learn c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\Learn c#\obj\Debug\net5.0\Learn c#.AssemblyInfoInputs.cache
+C:\University\Learn c#\obj\Debug\net5.0\Learn c#.AssemblyInfo.cs
+C:\University\Learn c#\obj\Debug\net5.0\Learn c#.csproj.CoreCompileInputs.cache
+C:\University\Learn c#\obj\Debug\net5.0\Learn c#.dll
+C:\University\Learn c#\obj\Debug\net5.0\ref\Learn c#.dll
+C:\University\Learn c#\obj\Debug\net5.0\Learn c#.pdb
+C:\University\Learn c#\obj\Debug\net5.0\Learn c#.genruntimeconfig.cache
